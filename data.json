@@ -1,0 +1,32 @@
+[
+    {
+        "priority": 0,
+        "tag": "DBMS",
+        "title": "text",
+        "type": "video"
+    },
+    {
+        "priority": 1,
+        "tag": "DBMS",
+        "title": "ed",
+        "type": "pdf"
+    },
+    {
+        "priority": 3,
+        "tag": "OS",
+        "title": "redx",
+        "type": "pdf"
+    },
+    {
+        "priority": 4,
+        "tag": "DSA",
+        "title": "trees",
+        "type": "video"
+    },
+    {
+        "priority": 5,
+        "tag": "DBMS",
+        "title": "web",
+        "type": "video"
+    }
+]
